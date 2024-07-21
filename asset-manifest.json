@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NATI--Verus-Bridge-Proxy-Page/static/css/main.f9d6587d.chunk.css",
+    "main.js": "/NATI--Verus-Bridge-Proxy-Page/static/js/main.0be3f677.chunk.js",
+    "main.js.map": "/NATI--Verus-Bridge-Proxy-Page/static/js/main.0be3f677.chunk.js.map",
+    "runtime-main.js": "/NATI--Verus-Bridge-Proxy-Page/static/js/runtime-main.3346beaf.js",
+    "runtime-main.js.map": "/NATI--Verus-Bridge-Proxy-Page/static/js/runtime-main.3346beaf.js.map",
+    "static/js/2.b6c8fdbc.chunk.js": "/NATI--Verus-Bridge-Proxy-Page/static/js/2.b6c8fdbc.chunk.js",
+    "static/js/2.b6c8fdbc.chunk.js.map": "/NATI--Verus-Bridge-Proxy-Page/static/js/2.b6c8fdbc.chunk.js.map",
+    "index.html": "/NATI--Verus-Bridge-Proxy-Page/index.html",
+    "static/css/main.f9d6587d.chunk.css.map": "/NATI--Verus-Bridge-Proxy-Page/static/css/main.f9d6587d.chunk.css.map",
+    "static/js/2.b6c8fdbc.chunk.js.LICENSE.txt": "/NATI--Verus-Bridge-Proxy-Page/static/js/2.b6c8fdbc.chunk.js.LICENSE.txt",
+    "static/js/main.0be3f677.chunk.js.LICENSE.txt": "/NATI--Verus-Bridge-Proxy-Page/static/js/main.0be3f677.chunk.js.LICENSE.txt",
+    "static/media/metamask-icon.5d8a9b97.svg": "/NATI--Verus-Bridge-Proxy-Page/static/media/metamask-icon.5d8a9b97.svg",
+    "static/media/wallet-icon.01720515.svg": "/NATI--Verus-Bridge-Proxy-Page/static/media/wallet-icon.01720515.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3346beaf.js",
+    "static/js/2.b6c8fdbc.chunk.js",
+    "static/css/main.f9d6587d.chunk.css",
+    "static/js/main.0be3f677.chunk.js"
+  ]
+}
